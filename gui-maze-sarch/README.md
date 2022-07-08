@@ -31,4 +31,4 @@ The program begins to search the A Star path (from 0 to 61) as soon as the corre
 <img width="827" alt="Screen Shot 2022-07-09 at 4 38 34 AM" src="https://user-images.githubusercontent.com/106197019/178066924-8ede3fc8-6076-4744-90bc-a4ae2e733636.png">
 
 
-
+Disclaimer: The A* Path program was provided, and I had only written the interface.
