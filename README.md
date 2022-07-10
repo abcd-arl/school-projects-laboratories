@@ -1,10 +1,5 @@
 # School Projects and Laboratories
 
-
-## [Depth-First Search Implementation](https://github.com/abcd-arl/school-projects-laboratories/tree/main/depth-first-search-implementation)
-
-<img width="794" alt="Screen Shot 2022-07-09 at 10 06 25 AM" src="https://user-images.githubusercontent.com/106197019/178087624-9f37a089-d822-4c3e-852e-a5a399e44903.png">
-
 ## [Search Algorithm Visualizer](https://github.com/abcd-arl/school-projects-laboratories/tree/main/search-algo-visualizer)
 
 <img width="827" alt="Screen Shot 2022-07-09 at 6 02 55 AM" src="https://user-images.githubusercontent.com/106197019/178075882-f1485f17-4dfd-460e-989e-2b8e2374689f.png">
